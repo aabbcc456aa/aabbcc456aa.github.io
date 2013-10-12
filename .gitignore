@@ -11,3 +11,12 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/.name
+/.idea/octopress.iml
+/.idea/.rakeTasks
+/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
